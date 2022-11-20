@@ -1,7 +1,5 @@
 import style from "../../styles/style.module.css";
 
-// data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false"
-
 export default function Tech() {
   return (
     <>

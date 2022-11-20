@@ -6,7 +6,7 @@ export default function Sosmed() {
   return (
     <>
       <div id="tech" className={style.profile} data-aos="fade-up" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-once="true">
-        <h2>Projects</h2>
+        <h2>Social Media</h2>
       </div>
       <ul className={style.sosmedListing}>
         <li data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-once="true">
